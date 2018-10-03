@@ -15,7 +15,7 @@ public class CurrencyConverterTests {
 	private static WebDriver openBrowser(String initialURL) {
 
 		// Define location of chromedriver executable
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
 
 		// Add browser option to maximise Chrome
 		ChromeOptions chromeOptions = new ChromeOptions();
