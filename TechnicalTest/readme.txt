@@ -6,7 +6,7 @@ Test Setup Instructions:
 - Eclipse Neon, using 'Eclipse IDE for Java Developers' option (https://www.eclipse.org/neon/)
 - Selenium Client & WebDriver Language Bindings 3.14.0 (https://www.seleniumhq.org/download/)
 	- unzip the archive file to a local directory
-- Chromedriver 2.42 (http://chromedriver.chromium.org/downloads) 
+- Chromedriver 2.42 (http://chromedriver.chromium.org/downloads - older versions may fail) 
 	- create a directory 'c:\chromedriver' and place 'chromedriver.exe' in it.
 
 2. Importing Eclipse Project from Repository:
